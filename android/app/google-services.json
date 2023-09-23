@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1055741880730",
+    "project_id": "inext-c92e4",
+    "storage_bucket": "inext-c92e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055741880730:android:971d5db171146c70dab223",
+        "android_client_info": {
+          "package_name": "com.example.inext"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6XwcI8QYaEz1bvkrSOQIMovqpba9uTsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
